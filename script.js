@@ -1,6 +1,6 @@
 
 // 1. Point to your Node.js backend
-const API_URL = 'http://localhost:3000/api';
+const API_URL = '/api';
 
 const tabButtons = document.querySelectorAll('.tab-button');
 const tabContents = document.querySelectorAll('.tab-content');
